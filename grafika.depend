@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1462911010 source:c:\users\marek\desktop\github\grafika\imagereader.cpp
+	"ImageReader.h"
+
+1462910953 c:\users\marek\desktop\github\grafika\imagereader.h
+	<fstream>
+	<string>
+	<iostream>
+
+1462910925 source:c:\users\marek\desktop\github\grafika\main.cpp
+	"imagereader.h"
+	<iostream>
+	<cstdlib>
+
+1462910639 c:\users\marek\desktop\github\grafika\image.h
+	"pixel.h"
+	"imagereader.h"
+	<cstdlib>
+
+1462910367 c:\users\marek\desktop\github\grafika\pixel.h
+	<iostream>
+
+1462910305 source:c:\users\marek\desktop\github\grafika\pixel.cpp
+	"pixel.h"
+
